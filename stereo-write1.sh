@@ -1,0 +1,5 @@
+/exam/tas5805m -id 0 -wreg 0x00,0x00
+/exam/tas5805m -id 0 -wreg 0x7f,0x00
+/exam/tas5805m -id 0 -wreg 0x03,0x02
+/exam/tas5805m -id 0 -wreg 0x01,0x11
+/exam/tas5805m -id 0 -wreg 0x03,0x02
