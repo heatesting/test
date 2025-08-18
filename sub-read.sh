@@ -1,0 +1,9 @@
+/exam/tas5805m -id 0 -greg 0x00
+/exam/tas5805m -id 0 -greg 0x7f
+/exam/tas5805m -id 0 -greg 0x02
+/exam/tas5805m -id 0 -greg 0x30
+/exam/tas5805m -id 0 -greg 0x4c
+/exam/tas5805m -id 0 -greg 0x53
+/exam/tas5805m -id 0 -greg 0x54
+/exam/tas5805m -id 0 -greg 0x03
+/exam/tas5805m -id 0 -greg 0x78
